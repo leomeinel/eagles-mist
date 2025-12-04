@@ -164,7 +164,7 @@
 - [ ] Export as webp
 - [ ] Use tilemap
 - [ ] Use outline effect, do not draw custom
-- [ ] Light casts from top down
+- [ ] Light casts from top right corner
 - [ ] 3/4 -> 45 degree angle
 
 ### Camera
