@@ -46,10 +46,10 @@
 - [ ] Customize colors and addons
 - [ ] Fight enemies to gain experience in skills and choose perks or gain achievements
 - [ ] Separate parts as layers
-  - [ ] Head
+  - [ ] Headwear
   - [ ] Eyes
+  - [ ] Head
   - [ ] Body
-  - [ ] Belly
   - [ ] Feet
 
 ### NPCs
@@ -163,9 +163,10 @@
 - [ ] Canvas size: 320x180
 - [ ] Export as webp
 - [ ] Use tilemap
-- [ ] Use outline effect, do not draw custom
+- [ ] Add outline effect with black color in diamond pattern
+- [ ] Use shading tool with color replace for shadows
 - [ ] Light casts from top right corner
-- [ ] 3/4 -> 45 degree angle
+- [ ] 2:1 pixel ratio -> isometric
 
 ### Camera
 
