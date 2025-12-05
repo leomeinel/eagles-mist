@@ -125,9 +125,14 @@
 ### UI
 
 - [ ] Use [bevy_ui_text_input](https://crates.io/crates/bevy_ui_text_input)
+- [ ] Use [bevy_fluent](https://crates.io/crates/bevy_fluent) for translation
 
-### Chunks
+### World
 
+- [ ] Use [noisy_bevy](https://crates.io/crates/noisy_bevy) for terrain generation
+  - [ ] Use `fbm_simplex_2d_seeded` for continuous, smooth elevation
+  - [ ] Use `worley_2d` to define biome regions, cluster resources, or add structural variation (rocks, plants, forests, lakes, mountains)
+  - [ ] Modify `fbm_simplex_2d_seeded` output with `worley_2d` output
 - [ ] Sorrounding chunks is a dark gray outside plane
 - [ ] Save chunks with [bevy_save](https://crates.io/crates/bevy_save/0.9.1) and load on demand
 - [ ] One chunk is one canvas size
@@ -193,3 +198,7 @@
 - [pixelblog](https://raymond-schlitter.squarespace.com/blog)
 - [pixelblog Graphical Projections 1](https://www.slynyrd.com/blog/2018/3/14/pixelblog-3-graphical-projections-1)
 - [pixelblog Graphical Projections 2](https://www.slynyrd.com/blog/2018/4/12/pixelblog-4-graphical-projection-part-2)
+- [Youtube - How to Implement Worley Biomes in Voxel Games with RUST](https://www.youtube.com/watch?v=m0BCrB_iRiA)
+- [noisy_bevy - Basic](https://github.com/johanhelsing/noisy_bevy/blob/main/examples/basic.rs)
+- [noisy_bevy - Seeded](https://github.com/johanhelsing/noisy_bevy/blob/main/examples/asteroids.rs)
+- [noisy_bevy - Worley](https://github.com/johanhelsing/noisy_bevy/blob/main/examples/worley.rs)
