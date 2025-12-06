@@ -202,3 +202,7 @@
 - [noisy_bevy - Basic](https://github.com/johanhelsing/noisy_bevy/blob/main/examples/basic.rs)
 - [noisy_bevy - Seeded](https://github.com/johanhelsing/noisy_bevy/blob/main/examples/asteroids.rs)
 - [noisy_bevy - Worley](https://github.com/johanhelsing/noisy_bevy/blob/main/examples/worley.rs)
+- [freepd.com](https://freepd.com/)
+- [sonniss.com](https://sonniss.com/gameaudiogdc/)
+- [freesound.org](https://freesound.org/)
+- [opengameart.org](https://opengameart.org)
