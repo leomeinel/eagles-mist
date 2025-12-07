@@ -117,6 +117,11 @@
 
 ## Technical
 
+- [ ] [bevy_rand](https://crates.io/crates/bevy_rand) and [bevy_prng](https://crates.io/crates/bevy_prng) for determinism and portability of random numbers with feature wyrand
+- [ ] [rand](https://crates.io/crates/rand) for pseudo random numbers
+- [ ] [bevy_yarnspinner](https://crates.io/crates/bevy_yarnspinner) for dialogue
+- [ ] [bevy_asset_loader](https://crates.io/crates/bevy_asset_loader) for asset loading
+
 ### Window
 
 - [ ] Width view area should stretch infinitely
@@ -153,9 +158,10 @@
 - [ ] Load current chunk + (2 sorrounding chunks on X-Axis || 1 sorrounding chunk on Y-Axis) except if reaching ending chunk
 - [ ] Ensure that transition is always possible on at least 2 sides except for ending chunk
 
-### Movement
+### Movement/Physics
 
-- [ ] Use [bevy_rapier2d](https://crates.io/crates/bevy_rapier2d)
+- [ ] Use [bevy_rapier2d](https://crates.io/crates/bevy_rapier2d) for physics
+- [ ] Use [bevy_enhanced_input](https://crates.io/crates/bevy_enhanced_input) for movement
 
 ### Graphics
 
