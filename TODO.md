@@ -166,6 +166,7 @@
 ### Graphics
 
 - [ ] Use [Pixelorama](https://pixelorama.org/)
+- [ ] Use [bevy_spritesheet_animation](https://crates.io/crates/bevy_spritesheet_animation)
 - [ ] Sprite sizes for pixel art
   - [ ] 8x8: TODO
   - [ ] 16x16: character, TODO
@@ -204,6 +205,7 @@
 - [pixelblog](https://raymond-schlitter.squarespace.com/blog)
 - [pixelblog Graphical Projections 1](https://www.slynyrd.com/blog/2018/3/14/pixelblog-3-graphical-projections-1)
 - [pixelblog Graphical Projections 2](https://www.slynyrd.com/blog/2018/4/12/pixelblog-4-graphical-projection-part-2)
+- [Pixel art animation](https://www.sandromaglione.com/articles/pixel-art-character-animations-guide)
 - [Youtube - How to Implement Worley Biomes in Voxel Games with RUST](https://www.youtube.com/watch?v=m0BCrB_iRiA)
 - [noisy_bevy - Basic](https://github.com/johanhelsing/noisy_bevy/blob/main/examples/basic.rs)
 - [noisy_bevy - Seeded](https://github.com/johanhelsing/noisy_bevy/blob/main/examples/asteroids.rs)
