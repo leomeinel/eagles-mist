@@ -200,7 +200,7 @@
 - [Testing systems](https://github.com/bevyengine/bevy/blob/main/tests/how_to_test_systems.rs)
 - [Rapier](https://rapier.rs/docs/user_guides/bevy_plugin/getting_started_bevy/)
 - [Unofficial guide for bevy](https://taintedcoders.com/)
-  - [Bevy sprites](https://taintedcoders.com/bevy/sprites)
+- [Bevy sprites](https://taintedcoders.com/bevy/sprites)
 - [bevy_save pipeline](https://github.com/hankjordan/bevy_save/blob/main/examples/pipeline.rs)
 - [pixelblog](https://raymond-schlitter.squarespace.com/blog)
 - [pixelblog Graphical Projections 1](https://www.slynyrd.com/blog/2018/3/14/pixelblog-3-graphical-projections-1)
