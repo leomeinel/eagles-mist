@@ -121,6 +121,7 @@
 - [ ] [rand](https://crates.io/crates/rand) for pseudo random numbers
 - [ ] [bevy_yarnspinner](https://crates.io/crates/bevy_yarnspinner) for dialogue
 - [ ] [bevy_asset_loader](https://crates.io/crates/bevy_asset_loader) for asset loading
+- [ ] [bevy_light_2d](https://crates.io/crates/bevy_light_2d) for lighting. It is also possible to move a point light with the camera for a sun light, but I'm not sure if that is desired.
 
 ### Window
 
