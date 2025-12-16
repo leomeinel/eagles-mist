@@ -123,6 +123,7 @@
 - [ ] [bevy_asset_loader](https://crates.io/crates/bevy_asset_loader) for asset loading
 - [ ] [bevy_light_2d](https://crates.io/crates/bevy_light_2d) for lighting. It is also possible to move a point light with the camera for a sun light, but I'm not sure if that is desired.
 - [ ] [bevy_enoki](https://crates.io/crates/bevy_enoki) for particles.
+- [ ] [bevy_ecs_tilemap](https://crates.io/crates/bevy_ecs_tilemap) for tilemap.
 
 ### Window
 
@@ -204,9 +205,11 @@
 - [Unofficial guide for bevy](https://taintedcoders.com/)
 - [Bevy sprites](https://taintedcoders.com/bevy/sprites)
 - [bevy_save pipeline](https://github.com/hankjordan/bevy_save/blob/main/examples/pipeline.rs)
+- [kenney.nl](https://kenney.nl/)
 - [pixelblog](https://raymond-schlitter.squarespace.com/blog)
 - [pixelblog Graphical Projections 1](https://www.slynyrd.com/blog/2018/3/14/pixelblog-3-graphical-projections-1)
 - [pixelblog Graphical Projections 2](https://www.slynyrd.com/blog/2018/4/12/pixelblog-4-graphical-projection-part-2)
+- [pixelblog Top down tiles](https://www.slynyrd.com/blog/2019/8/27/pixelblog-20-top-down-tiles)
 - [Pixel art animation](https://www.sandromaglione.com/articles/pixel-art-character-animations-guide)
 - [Youtube - How to Implement Worley Biomes in Voxel Games with RUST](https://www.youtube.com/watch?v=m0BCrB_iRiA)
 - [noisy_bevy - Basic](https://github.com/johanhelsing/noisy_bevy/blob/main/examples/basic.rs)
