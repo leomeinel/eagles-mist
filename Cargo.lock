@@ -1671,6 +1671,21 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "7ef8e4b7e61dfe7719bb03c884dc270cd46a82efb40f93e9933b990c5c190c59"
 
 [[package]]
+name = "bevy_northstar"
+version = "0.5.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "02df6e46592e285cba9efd0b27ce2b043242b2bb766a6b9a6801c63800ce1558"
+dependencies = [
+ "bevy 0.17.3",
+ "indexmap",
+ "ndarray",
+ "rayon",
+ "rustc-hash 2.1.1",
+ "slab",
+ "smallvec",
+]
+
+[[package]]
 name = "bevy_pbr"
 version = "0.17.3"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -3414,6 +3429,7 @@ dependencies = [
  "bevy_enhanced_input",
  "bevy_fluent",
  "bevy_light_2d",
+ "bevy_northstar",
  "bevy_prng",
  "bevy_rand",
  "bevy_rapier2d",
@@ -5075,6 +5091,22 @@ dependencies = [
  "proc-macro2",
  "quote",
  "syn 2.0.111",
+]
+
+[[package]]
+name = "ndarray"
+version = "0.17.1"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "0c7c9125e8f6f10c9da3aad044cc918cf8784fa34de857b1aa68038eb05a50a9"
+dependencies = [
+ "matrixmultiply",
+ "num-complex",
+ "num-integer",
+ "num-traits",
+ "portable-atomic",
+ "portable-atomic-util",
+ "rawpointer",
+ "rayon",
 ]
 
 [[package]]
