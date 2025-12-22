@@ -3438,6 +3438,7 @@ dependencies = [
  "bevy_yarnspinner",
  "iyes_progress",
  "noisy_bevy",
+ "polyanya",
  "rand 0.9.2",
  "serde",
  "tracing",
