@@ -124,7 +124,7 @@
 - [ ] [bevy_light_2d](https://crates.io/crates/bevy_light_2d) for lighting. It is also possible to move a point light with the camera for a sun light, but I'm not sure if that is desired.
 - [ ] [bevy_enoki](https://crates.io/crates/bevy_enoki) for particles.
 - [ ] [bevy_ecs_tilemap](https://crates.io/crates/bevy_ecs_tilemap) for tilemap.
-- [ ] [bevy_northstar](https://crates.io/crates/bevy_northstar) for pathfinding.
+- [ ] [vleue_navigator](https://crates.io/crates/vleue_navigator) for pathfinding.
 
 ### Window
 

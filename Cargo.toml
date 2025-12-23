@@ -45,7 +45,6 @@ vleue_navigator = "0.14.0"
 
 [target.'cfg(all(target_family = "wasm", any(target_os = "unknown", target_os = "none")))'.dependencies]
 bevy_rand = { version = "0.12.1", features = ["wasm_js"] }
-bevy_northstar = { version = "0.5.0", default-features = false }
 
 [features]
 # Default to a native dev build.
