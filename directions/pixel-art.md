@@ -53,7 +53,7 @@ img {
 </figure>
 
 <figure>
-  <img src="./pixelorama-layers.webp" height="300">
+  <img src="./pixelorama-timeline.webp" height="300">
   <figcaption>Layering example<sup>B2</sup></figcaption>
 </figure>
 

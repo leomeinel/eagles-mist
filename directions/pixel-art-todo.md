@@ -62,9 +62,9 @@ img {
     <td>
       <ul>
         <li>idle - 2 frames</li>
-        <li>walk-down - 4 frames<sup>D1</sup></li>
-        <li>walk-up - 4 frames<sup>D1</sup></li>
-        <li>walk-horizontal - 4 frames<sup>D1</sup></li>
+        <li>walk-down - 4 frames<sup>A1</sup></li>
+        <li>walk-up - 4 frames<sup>A1</sup></li>
+        <li>walk-horizontal - 4 frames<sup>A1</sup></li>
         <li>jump-down - 2 frames</li>
         <li>fall-down - 2 frames</li>
         <li>jump-up - 2 frames</li>
@@ -76,7 +76,7 @@ img {
   </tr>
 </table>
 
-- <sup>D1</sup>: The walk in this case includes the run animation, therefore all 4 unique frames need to be drawn.
+- <sup>A1</sup>: The walk in this case includes the run animation, therefore all 4 unique frames need to be drawn.
 
 <div style="page-break-after: always;"></div>
 
@@ -89,7 +89,7 @@ img {
   </tr>
   <tr>
     <td>
-      Armor (can cover whole body)<sup>D2</sup>
+      Armor (can cover whole body)<sup>A2</sup>
     </td>
     <td>
       <ul>
@@ -101,7 +101,7 @@ img {
   </tr>
   <tr>
     <td>
-      Clothing<sup>D2</sup>
+      Clothing<sup>A2</sup>
     </td>
     <td>
       Upper
@@ -125,7 +125,7 @@ img {
   </tr>
   <tr>
     <td>
-      Accessories<sup>D2</sup>
+      Accessories<sup>A2</sup>
     </td>
     <td>
       Upper
@@ -145,8 +145,8 @@ img {
   </tr>
 </table>
 
-- <sup>D2</sup>: This is just meant as an inspiration. Other styles are possible and these styles can come in different variations.
-- <sup>D2</sup>: Also see: [Wikipedia - English medieval clothing](https://en.wikipedia.org/wiki/English_medieval_clothing)
+- <sup>A2</sup>: This is just meant as an inspiration. Other styles are possible and these styles can come in different variations.
+- <sup>A2</sup>: Also see: [Wikipedia - English medieval clothing](https://en.wikipedia.org/wiki/English_medieval_clothing)
 
 <div style="page-break-after: always;"></div>
 
