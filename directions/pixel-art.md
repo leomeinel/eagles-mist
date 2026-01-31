@@ -75,7 +75,7 @@ The following examples are meant as a general guideline of how to implement anim
 
 <a href ="https://www.slynyrd.com/blog/2019/10/21/pixelblog-22-top-down-character-sprites">
   <figure>
-    <img src="./pixelblog-4-directional-movement.webp" height="300">
+    <img src="https://web.archive.org/web/20251202105638im_/https://images.squarespace-cdn.com/content/v1/551a19f8e4b0e8322a93850a/1571764518933-O01PQBVQIMKN8V1C8O7D/55-Walk_Run_2.gif" height="300">
     <figcaption>
       Walk/Run animation example<sup>C1</sup>
     </figcaption>
