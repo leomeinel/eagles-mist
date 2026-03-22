@@ -2,7 +2,7 @@
 
 This is a learning project.
 
-You can play the game [here](https://leomeinel.github.io/eagles-mist) or download a [release](https://github.com/leomeinel/eagles-mist/releases).
+You can play the game [here](https://leomeinel.github.io/eagles_mist) or download a [release](https://github.com/leomeinel/eagles_mist/releases).
 
 ## Mixed license
 
